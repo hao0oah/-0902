@@ -1,0 +1,8 @@
+{
+  "name": "usmile 商标管理系统 2026-09-02",
+  "description": "面向新消费品牌的次世代商标数字化管理、全球布局与智能风控协同平台",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
